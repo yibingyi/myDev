@@ -1,5 +1,5 @@
 <?php
-	echo "thanks for your visit :)"
+	echo "thanks for your visit :)";
 	phpinfo();
 
 ?>
