@@ -1,2 +1,2 @@
 # myDev
-j4f
+## a training project for bing & nan 
