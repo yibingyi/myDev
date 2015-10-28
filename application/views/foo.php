@@ -1,2 +1,4 @@
-这是 foo 的view
-
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+echo 123;
+?>
