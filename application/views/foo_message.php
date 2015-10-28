@@ -1,4 +1,14 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-echo 123;
 ?>
+
+<html>
+    <head>
+        <title>foo</title>>
+    </head>>
+    <body>
+        <div>
+            <span>hello world</span>
+        </div>
+    </body>
+</html>
