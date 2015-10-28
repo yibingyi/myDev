@@ -20,6 +20,7 @@ class Foo extends CI_Controller {
 	 */
 	public function index()
 	{
+                echo "hello world";
 		$this->load->view('foo_message');
 	}
 }
