@@ -24,8 +24,7 @@ class Foo extends CI_Controller {
         $this->load->view('foo_message');
     }
 
-    public function shoes($sandals, $id) {
-        echo $sandals;
+    public function shoes($id) {
         echo $id;
     }
 
