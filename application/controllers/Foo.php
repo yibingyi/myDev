@@ -23,4 +23,8 @@ class Foo extends CI_Controller {
 //                echo "hello world";
 		$this->load->view('foo_message');
 	}
+        
+        public function foo($name){
+            echo $name;
+        }
 }
