@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <title>hello world</title>
 
     <!-- Bootstrap -->
-    <link href="/rs/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/rs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,6 +27,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/rs/js/bootstrap.min.js"></script>
+    <script src="/rs/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
