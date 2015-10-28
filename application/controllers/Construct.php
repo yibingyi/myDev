@@ -6,7 +6,7 @@ class Construct extends CI_Controller {
 
     public function index() {
         var_dump($_POST);
-        $this->load->view();
+//        $this->load->view();
     }
 
 }
