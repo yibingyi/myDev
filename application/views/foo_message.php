@@ -64,7 +64,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <!-- /.container -->
         </nav>
         
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="width:100%">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
