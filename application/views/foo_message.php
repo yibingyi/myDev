@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <body>
 
         <!-- Navigation -->
-        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="width:100%">
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" >
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -63,7 +63,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
             <!-- /.container -->
         </nav>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="width:100%">
             <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
